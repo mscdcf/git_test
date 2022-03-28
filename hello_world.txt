@@ -1,1 +1,3 @@
 This file serves just one purpose: to say "Hello!" to the world.
+
+I'm adding this line just to test out the update I made to Git in which I told it I wanted to use VS Code as the default message editor for a commit.
