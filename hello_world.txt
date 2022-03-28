@@ -1,0 +1,1 @@
+This file serves just one purpose: to say "Hello!" to the world.
